@@ -1,2 +1,2 @@
 # PythonScripts
-This repository will contain python scripts
+This repository contains python scripts
